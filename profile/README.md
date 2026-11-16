@@ -6,7 +6,7 @@
 
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://github.com/stockscan-team/stockscan-sga)
 [![Java Swing](https://img.shields.io/badge/GUI-Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)](https://github.com/stockscan-team/stockscan-dii)
-[![Arquitectura](https://img.shields.io/badge/Arquitectura-MVC_%2B_DAO-2EA44F?style=for-the-badge)](https://github.com/stockscan-team)
+[![Documentación](https://img.shields.io/badge/Docs-Especificación_y_Diseño-0969DA?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/stockscan-team/stockscan-sga/tree/main/docs)
 [![Tablero](https://img.shields.io/badge/Gestor-GitHub_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orgs/stockscan-team/projects/1)
 
 </div>
@@ -23,8 +23,9 @@
 
 | Módulo / Recurso | Descripción | Acceso Directo |
 | :--- | :--- | :--- |
-| **`stockscan-sga`** | Lógica de negocio, modelos de dominio, capa de persistencia (**patrón DAO**) y documentación técnica del Sistema de Gestión de Almacén. | [Ver repositorio](https://github.com/stockscan-team/stockscan-sga) |
+| **`stockscan-sga`** | Lógica de negocio, modelos de dominio y capa de persistencia (**patrón DAO**) del Sistema de Gestión de Almacén. | [Ver repositorio](https://github.com/stockscan-team/stockscan-sga) |
 | **`stockscan-dii`** | Diseño de interfaz gráfica (**Java Swing**), componentes visuales reutilizables, prototipado, pruebas de usabilidad y auditoría de accesibilidad. | [Ver repositorio](https://github.com/stockscan-team/stockscan-dii) |
+| **Documentación (`docs`)** | Especificación de requisitos, diagramas UML, arquitectura del sistema, diseño de base de datos y manuales técnicos. | [Consultar documentación](https://github.com/stockscan-team/stockscan-sga/tree/main/docs) |
 | **Tablero Agile** | Planificación por Sprints, *Product Backlog*, estimaciones, fechas objetivo y seguimiento detallado de todas las tareas (*Issues*). | [Abrir tablero](https://github.com/orgs/stockscan-team/projects/1) |
 
 ---
